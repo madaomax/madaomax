@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madaomax
-- 👀 I’m interested in Software Development, Computer Security, gaming (extensive OW2 playing right now)
-- 🌱 I’m currently learning Algorithms (CS170) and Computer Security (CS161), and also French!
+- 👀 I’m interested in Software Development, Computer Security, gaming (OW2 playing right now)
+- 🌱 I’m currently learning Operating Systems (CS162) and Computer Architecture (CS152), and also French!
 - 💞️ I’m looking to collaborate on mobile app developing!
 - 📫 How to reach me: madaomax@berkeley.edu
 
