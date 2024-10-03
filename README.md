@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madaomax
-- 👀 I’m interested in Software Development, Computer Security, gaming (OW2 hehe)
-- 🌱 I’m currently learning how to ace my internship and game dev.
-- 💞️ I’m looking to collaborate on mobile app / web dev / game dev / anything!
+- 👀 I’m interested in Software Development, Computer Security, and gaming.
+- 🌱 I’m currently learning LLM agents, chip digital design and integrated circuits, and French for politics.
+- 💞️ I’m looking to collaborate on mobile app / web dev / game dev / LLM dev / anything!
 - 📫 How to reach me: madaomax@berkeley.edu
 
 <!---
